@@ -19,7 +19,7 @@
 }
 
 body{
-    background-color: #ffffff94;
+    /* background-color: #ffffff94; */
 }
 
 /* number-1 */
@@ -33,15 +33,14 @@ header{
 }
 
 header h1{
-    margin-block: 1rem;
-    
+    margin-block: 1.2rem;
     font-size: 1rem;
     color: aliceblue;
 }
 
 .circle{
     position: relative;
-    margin-block: 0.01rem 1rem;
+    margin-block: 0.01rem 0.5rem;
     text-align: center;
     color: aliceblue;
     box-shadow: inset 1px 1px 20px  #1b048ff1;
@@ -57,7 +56,7 @@ header h1{
     font-weight: 700;
     position: absolute;
     top: 30px;
-    left: 35px;
+    left: 34px;
 }
 
 .circle span{
@@ -73,7 +72,7 @@ header h3{
 }
 
 header p{
-    margin: 1rem 0 1.5rem 0;
+    margin: 0.5rem 0 1.1rem 0;
     text-align: center;
     margin-inline: 3.5rem;
     color: #f0f8ffad;
